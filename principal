@@ -1,0 +1,2 @@
+int ismael_multiplicacion(int a, int b) {return a*b;}
+int ismael_division(int a, int b) {return a*b;}
